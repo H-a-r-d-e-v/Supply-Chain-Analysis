@@ -1,8 +1,7 @@
 # Supply Chain Management Analysis – SQL + Tableau
 
 ## 📊 Project Overview
-This project analyzes supply chain data using **MySQL** for querying and **Tableau** for visualization.  
-It focuses on key performance metrics like inventory, supplier efficiency, delivery times, and costs.
+This project demonstrates an end-to-end supply chain analytics workflow using SQL (MySQL) for data processing and Tableau for interactive visualization. The objective was to convert raw operational data into actionable insights related to revenue, inventory, supplier performance, and delivery efficiency.
 
 ---
 
@@ -71,4 +70,5 @@ The Tableau dashboard highlights:
 - **Supplier Performance:**
   - Average lead times
   - Ranking by reliability & efficiency
+
 
