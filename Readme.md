@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 This project analyzes supply chain data using **MySQL** for querying and **Tableau** for visualization.  
-It focuses on key performance metrics like inventory, supplier efficiency, delivery times, and costs — replicating real-world supply chain management scenarios for a business/data analyst role.
+It focuses on key performance metrics like inventory, supplier efficiency, delivery times, and costs.
 
 ---
 
@@ -71,3 +71,4 @@ The Tableau dashboard highlights:
 - **Supplier Performance:**
   - Average lead times
   - Ranking by reliability & efficiency
+
